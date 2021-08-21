@@ -12,7 +12,7 @@ namespace Practice1.Service
         
         public void Start()
         {
-            Console.WriteLine("Hello I am car and I move ");
+            Console.WriteLine("Hello I am car and I move fast` ");
         }
     }
 }
