@@ -9,5 +9,10 @@ namespace Practice1.Service
         {
             Console.WriteLine("Hello I am car and I move ");
         }
+        
+        public void Start()
+        {
+            Console.WriteLine("Hello I am car and I move ");
+        }
     }
 }
